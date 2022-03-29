@@ -1,0 +1,13 @@
+There are different roles available in Great Learning
+1. Technical
+a. Datascientist
+B. Manager
+C. Consultant
+d. BU Head
+e. Vice President
+
+2. Non-Technical
+A. Program Manager
+B. Sales 
+C. Content
+d. HR
